@@ -1,0 +1,72 @@
+‘People need to see big patterns.’ U.S. ecological observatory’s new science chief looks ahead
+‘People need to see big patterns.’ U.S. ecological observatory’s new science chief looks ahead
+
+One year ago, an ambitious 20-year effort to establish a network of long-term ecological monitoring sites across the United States was floundering—again. Battelle, contracted in 2016 by the National Science Foundation (NSF) to finish building the National Ecological Observatory Network, had fired two senior NEON managers and dissolved its 20-member scientific advisory board, causing NEON’s chief scientist to resign. The developments came on the eve of the completion of the 81-site facility, which cost a half-billion dollars to build and is designed to usher ecology into the era of big data.
+
+Now, Battelle has hired a new chief scientist and observatory director to guide NEON’s work. Early next month, Paula Mabee, an integrative biologist at the University of South Dakota and, for 2 years, the leader of NSF’s environmental biology program, will officially join NEON’s Boulder, Colorado–based staff.
+
+Mabee has her work cut out for her. Some senior academic ecologists have been skeptical about NEON’s value—and have worried the network’s long-term operating costs could erode NSF funding for other ecological studies—although younger researchers appear more eager to tap the torrents of data it is producing. And NSF is set to decide whether to extend Battelle’s current NEON contract past late 2021, or choose another contractor—meaning Mabee could be out of a job.
+
+But that uncertainty doesn’t seem to bother Mabee, and she thinks the chances are good she will be in Boulder for a long while, she told Science Insider recently. This interview has been edited for brevity and clarity.
+
+Q: Why did you apply to be the NEON director?
+
+A: It’s the science that excites me the most. [NEON] enables research that’s never happened before. Having a broad background, and being exposed to so much in science, I felt like this was another opportunity to really to work with the community and help move it forward in conjunction with a couple of really strong partners, mainly Battelle and NSF.
+
+Q: Do you consider yourself an ecologist?
+
+
+
+A: My training is in evolutionary biology [but I have] a broad research background in data interoperability and semantics and, recently, work in machine learning. How about integrative biologist?
+
+Q: Will not being an ecologist hold you back?
+
+A: No, I bring a real familiarity with the ecological community [and] with all the evolutionary biology communities, through the NSF experience [as a division director]. I also have a history of working with different scientific communities and bringing them together under NSF and [National Institutes of Health] umbrellas.
+
+Q: Can you describe a concrete example?
+
+A: While at the University of South Dakota, I was involved in NSF’s Research Coordination Network mechanism, [which calls for] leading and building scientific research teams that are geographically distributed and involve international components. I involved veterinarians, folks in agriculture, and people in biomedicine as well as biodiversity, and I brought in a lot of cyber experts. I thought really deeply about how you set standards, how you develop transdisciplinary communities, and how you really spark creativity, because it is all about how the data are used, and the questions that are asked.
+
+Q: Can you describe your experience with big data?
+
+A: I started in 2006 to make trait data of organisms computable and interoperable with the genetic data. And in partnership with the biomedical community, we developed this big knowledge base that’s essentially a hypothesis-generating machine for evolutionary biology. Trying to understand and predict trait responses [as] the environment changes is a huge challenge, and frankly, that’s one of my personal motivations for being excited about NEON data. A lot of my excitement is in the diverse user community that will find those environmental data key to understanding the questions that they’re asking.
+
+Q: What are the big challenges related to the use of NEON’s data?
+
+A: Many different biologists are interested in integrated ecological data. And these are complex data sets. Particularly in ecology, because of the emerging properties and dependencies and feedbacks. In biology, [there are] multiple levels of organization and connections across them; you add in a couple of billion years of evolution, and you have a really complex data set to work with. The connection between genes and traits is mediated by environment, as is evolution. So those are all really big questions. And people need to see big patterns. But this is an incredibly opportune time in terms of technology, as well as the many different tools in machine learning and artificial intelligence that are becoming available.
+
+Q: There are concerns that operating NEON will suck NSF funding from other ecological research. Do you share that worry?
+
+A: I’ve found that not everybody really understands that the public funding for NEON comes from [NSF’s] biological sciences directorate. From the whole directorate. And the directorate has a molecular group, an organismal group, an environmental group, with the different divisions and an infrastructure division. The money for NEON comes out of the directorate and not out of a particular part of the directorate, such as ecology.
+
+No matter where your research funding comes from, [NEON’s] data are free [to users], and as such, this upfront funding for NEON is a cost savings. Essentially the money for those data are a very cost-efficient way for them to be produced because they’re going to be so broadly used. Environmental data are so much a part of so many different kinds of questions, that I feel that they can be used in [researching] nearly all of them.
+
+Q: How will you balance the needs of the scientific community against the constraints of running NEON to prevent miscommunication and a loss of trust?
+
+
+
+A: Well, I do feel like these are really new times, looking forward. I don’t anticipate communication problems. It’s really important for me to keep my eye on the mission, which is to deliver the data, which we’re doing, and make it accessible, which it is, and do whatever is possible to work with NSF to improve training, as well as tools, as well as community readiness, including diversity and inclusion issues, to really move the use of the data forward.
+
+Q: Some researchers have a sense that there’s a very alpha male attitude at Battelle. Do you have any concerns about that?
+
+
+
+A: I have not experienced that in my interactions with Battelle and their employees, in the search process or otherwise. I am eager to work with the people that I’ve met. I am cognizant that that can be an atmosphere in many places in science, but I do not feel that in Battelle personally.
+
+Q: Battelle is applying for the operations contract. Will you be working on that?
+
+
+
+A: Oh yes, absolutely. NEON is important enough that it’s critical [for NSF] to recompete it to ensure that the research infrastructure remains world class and it’s operated with the reliability that Battelle has conferred upon it in terms of scientific and operational results. Battelle is well-positioned in this competition because it built NEON. And so, I feel very optimistic.
+
+
+
+Q: You’re not worried you might be out of a job in 1 year?
+
+
+
+A: I’m going to just work very hard on that proposal.
+
+Q: Where would you like to see NEON in 5 years?
+
+A: I would like the ecological community to be satisfied with the data. I would like to be surprised at the variety of patterns and perspectives and tools and methods that have come out of people using those data. And I would like it to be data that are heavily used and deeply appreciated. I would like the public to see that this is a wise investment. And I’d like them to see and appreciate the communities of scientists who are spending their lives just tangling with these really difficult questions.

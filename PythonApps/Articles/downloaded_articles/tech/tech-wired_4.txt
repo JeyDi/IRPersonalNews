@@ -1,0 +1,52 @@
+You really need to lock down your Trello boards... right now
+Getty Images / WIRED
+
+It’s a window into ordinary family life. The busy Californian mother needed to exchange the queen air mattress they had recently bought because it had a hole in it. She needed a new broom and dustpan that she was planning to get from a home furnishings shop – the same one she planned to return the pillow cases she didn’t want, and the empty Sodastream gas canisters to exchange for new ones. She had to go to the supermarket, where she wanted to pick up a bag of pecans and some canned crab, as well as get the horn and sunglasses holder of her car fixed. Then she needed to take her daughter to their paediatrician on Wednesday. So she posted it on Trello. And, without her realising, the world could see how she lived.
+
+The owner of this highly personal Trello board – whose name we are withholding, and some details of which we have changed to prevent identification, alongside reporting to Trello – is one of a huge number of users unwittingly leaking personal data to the public by not closing access to their boards.
+
+Advertisement
+
+Trello has taken over the world, helping people – including, full disclosure, the staff of WIRED – keep track of their workflow and tasks they need to do. Millions of Trello boards exist on the internet. By default, when a user sets up a Trello board, the data within is private (where “only board members can see and edit this board”). However, users can make their boards public – and Trello warns that “anyone on the internet (including Google) can see this board.”
+
+Sophos’s director of security operations, Craig Jones, first spotted users were ignoring that warning when he tried Trello to organise various aspects of his life. “I realised when you created a board, you could opt to have it public very easily – and it wasn’t very obvious it was public.” He put a unique name on one of his boards and waited a day, then searched for it on Google. His board turned up. “I said, if I can find my board in there, there’s obviously other boards.”
+
+Read next Europe has a plan to break Google and Amazon's cloud dominance Europe has a plan to break Google and Amazon's cloud dominance
+
+He’s since found details of companies’ payroll, administrative tasks, passwords and private business decisions all there on public Trello board, available for anyone to see. He’s uncovered HIPAA (US Health Insurance Portability and Accountability Act) data, which contains private information about people’s healthcare, and credit card repayment details. Jones has signed various non-disclosure agreements after reporting the existence of Trello data with large companies which prevents him from talking about some of the more concerning data he’s found by trawling through Google.
+
+But he doesn’t necessarily believe fault lies with Trello. “They’re stuck between a rock and a hard place,” he says. “These tools are so accessible to people. They’re accessible to people who don’t necessarily understand their full function, and their accessibility is also a curse in some senses.” He compares it to blaming the manufacturer for crashing a car: the user is still at fault.
+
+Advertisement
+
+“The thing about Trello is that it suffers from a lot of the problems some of the original mySQL databases have, which is it was designed for one thing and used for another,” says Chris Vickery, director of cyber risk research at UpGuard. “It was designed for team collaboration and the public-facing side of it wasn’t supposed to hold super sensitive data, but people started putting sensitive data in things that are publicly available.” Trello confirmed it doesn’t monitor user-generated content on its boards, and said that making private boards that contained the word “password” would unintentionally shut down some boards that reference the word “password” as a false positive.
+
+“User error” is often a convenient excuse for bad design, but in this instance the fault most definitely does lie with humans, says Abigail McAlpine of the University of Huddersfield’s Secure Societies Institute. “The defaults are usually in favour of privacy on Trello,” she explains. “What happens is they usually share them too freely or don’t understand how to change their privacy settings to add members of teams.” One major point of friction is users’ thriftiness. In March 2019, Trello instigated a ten-board limit on its free plan for those who wanted to collaborate as a team. “Because of the limitation, they need to pay for that further access, and usually people don’t want to pay for things,” says McAlpine. “The easy way of doing it is to make it public and not list it anywhere, but that raises issues like this.”
+
+WIRED, in conjunction with Jones, has seen Trello boards containing usernames and passwords for a real estate company’s social media accounts, another property agency’s detailed list of issues with properties, including specific addresses and names, and one Thai hotelier whose Trello board included a list of staff members, including their names, contact details, bank account, personal remarks about their work ethic and salaries.
+
+Read next How to securely wipe anything from your Android, iPhone or PC How to securely wipe anything from your Android, iPhone or PC
+
+The discoveries are similar to issues around Amazon’s AWS S3 buckets, online storage areas where organisations hold data that are set to be private by default, but can be made public by account holders. “A lot of people don’t necessarily understanding they are remaking it available to the entire internet,” says Vickery.
+
+Advertisement
+
+Trello co-founder Michael Pryor remephasises that all Trello boards are set to private by default and adds that the service has “built in safeguards” to confirm if someone really wants to make a board publically visible. “In addition, visibility settings are displayed persistently on the top of every board,” he adds.
+
+The easiest way to solve the problem is to ensure that your Trello boards are set to private – all of them. “One of the most interesting things is that people have dumped their entire life in Trello then abandoned it,” says Jones. “If you really wanted to know some stuff about someone, that stuff is there.” If you come across information that is open that shouldn’t be, contact Trello as Jones does. The company will then make the private board public and inform the user.
+
+And, more fundamentally, avoid putting any information you wouldn’t want to end up in public view on the internet in the first place – not just on Trello, but any digital service. “Even if something says it’s private, you don’t know who is working at these companies and who has access to this stuff. You’re not vetting the employers, administrators or subcontractors,” says Vickery. “Assume that what you put up on a Trello board – even if it says private – can become public, just like any other service, very easily.”
+
+More great stories from WIRED
+
+🍅 Why do modern tomatoes taste so bad?
+
+🚙 How Tesla became the world's most overvalued car company
+
+📽️ Marvel at the incredible real-life Iron Man
+
+Advertisement
+
+📢 How Slack ruined work
+
+👉 Follow WIRED on Twitter, Instagram, Facebook and LinkedIn

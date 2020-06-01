@@ -1,0 +1,346 @@
+Britons struggle to find time for a cup of tea as stress takes its toll, study claims
+A study of 2,000 adults found a fast pace of life combined with rising work pressures and a phone that never stops means few people "switch off".
+
+Other factors include the stress of being a parent, longer commuting times and financial pressures amid rising costs of living.
+
+Two thirds of those polled believe a lifestyle that leaves no time to decompress is taking its toll on health and emotional wellbeing.
+
+Download the new Independent Premium app Sharing the full story, not just the headlines
+
+The research found those who do find the time, only do so for an average of 54 minutes a day.
+
+The research also found the difficulties we have switching off mean we’re left feeling "mentally frazzled" twice a week on average.
+
+Four in 10 admit their difficulty in unwinding has had a negative impact on their home life. More than half are so busy they have no time to take a tea break.
+
+However, six in 10 feel said they feel apprehensive about straying from their daily routine.
+
+Despite this, the Twinings research carried out through OnePoll, found many of those polled have made changes to their daily routine to help them better relax.
+
+These include taking longer tea breaks during their working day, not looking at their mobile devices in the evening and reading a book before going to bed.
+
+Other methods include taking more tea breaks, doing exercise and enforcing a ‘no talking about work’ rule when at home.
+
+SWNSMining coronavirus genomes for clues to the outbreak’s origins
+Mining coronavirus genomes for clues to the outbreak’s origins
+
+attaaaggtt tataccttcc caggtaacaa accaaccaac tttcgatctc ttgtagatct …
+
+That string of apparent gibberish is anything but: It’s a snippet of a DNA sequence from the viral pathogen, dubbed 2019 novel coronavirus (2019-nCoV), that is overwhelming China and frightening the entire world. Scientists are publicly sharing an ever-growing number of full sequences of the virus from patients—53 at last count in the Global Initiative on Sharing All Influenza Data database. These viral genomes are being intensely studied to try to understand the origin of 2019-nCoV and how it fits on the family tree of related viruses found in bats and other species. They have also given glimpses into what this newly discovered virus physically looks like, how it’s changing, and how it might be stopped.
+
+“One of the biggest takeaway messages [from the viral sequences] is that there was a single introduction into humans and then human-to-human spread,” says Trevor Bedford, a bioinformatics specialist at the University of Washington and Fred Hutchinson Cancer Research Center. The role of Huanan Seafood Wholesale Market in Wuhan, China, in spreading 2019-nCoV remains murky, though such sequencing, combined with sampling the market’s environment for the presence of the virus, is clarifying that it indeed had an important early role in amplifying the outbreak. The viral sequences, most researchers say, also knock down the idea the pathogen came from a virology institute in Wuhan.
+
+In all, 2019-nCoV has nearly 29,000 nucleotides bases that hold the genetic instruction book to produce the virus. Although it’s one of the many viruses whose genes are in the form of RNA, scientists convert the viral genome into DNA, with bases known in shorthand as A, T, C, and G, to make it easier to study. Many analyses of 2019-nCoV’s sequences have already appeared on virological.org, nextstrain.org, preprint servers like bioRxiv, and even in peer-reviewed journals. The sharing of the sequences by Chinese researchers allowed public health labs around the world to develop their own diagnostics for the virus, which now has been found in 18 other countries. (Science's news stories on the outbreak can be found here.)
+
+When the first 2019-nCoV sequence became available, researchers placed it on a family tree of known coronaviruses—which are abundant and infect many species—and found that it was most closely related to relatives found in bats. A team led by Shi Zheng-Li, a coronavirus specialist at the Wuhan Institute of Virology, reported on 23 January on bioRxiv that 2019-nCoV’s sequence was 96.2% similar to a bat virus and had 79.5% similarity to the coronavirus that causes severe acute respiratory syndrome (SARS), a disease whose initial outbreak was also in China more than 15 years ago. But the SARS coronavirus has a similarly close relationship to bat viruses, and sequence data make a powerful case that it jumped into people from a coronavirus in civets that differed from human SARS viruses by as few as 10 nucleotides. That’s one reason why many scientists suspect there’s an “intermediary” host species—or several—between bats and 2019-nCoV.
+
+According to Bedford’s analysis, the bat coronavirus sequence that Shi Zheng-Li’s team highlighted, dubbed RaTG13, differs from 2019-nCoV by nearly 1100 nucleotides. On nextstrain.org, a site he co-founded, Bedford has created coronavirus family trees (example below) that include bat, civet, SARS, and 2019-nCoV sequences. (The trees are interactive—by dragging a computer mouse over them, it’s easy to see the differences and similarities between the sequences.)
+
+Bedford’s analyses of RaTG13 and 2019-nCoV suggest that the two viruses shared a common ancestor 25 to 65 years ago, an estimate he arrived at by combining the difference in nucleotides between the viruses with the presumed rates of mutation in other coronaviruses. So it likely took decades for RaTG13-like viruses to mutate into 2019-nCoV.
+
+Middle East respiratory syndrome (MERS), another human disease caused by a coronavirus, similarly has a link to bat viruses. But studies have built a compelling case it jumped to humans from camels. And the phylogenetic tree from Shi’s bioRxiv paper (below) makes the camel-MERS link easy to see.
+
+The longer a virus circulates in a human populations, the more time it has to develop mutations that differentiate strains in infected people, and given that the 2019-nCoV sequences analyzed to date differ from each other by seven nucleotides at most, this suggests it jumped into humans very recently. But it remains a mystery which animal spread the virus to humans. “There’s a very large gray area between viruses detected in bats and the virus now isolated in humans,” says Vincent Munster, a virologist at the U.S. National Institute of Allergy and Infectious Diseases who studies coronaviruses in bats, camels, and others species.
+
+Strong evidence suggests the marketplace played an early role in spreading 2019-nCoV, but whether it was the origin of the outbreak remains uncertain. Many of the initially confirmed 2019-nCoV cases—27 of the first 41 in one report, 26 of 47 in another—were connected to the Wuhan market, but up to 45%, including the earliest handful, were not. This raises the possibility that the initial jump into people happened elsewhere.
+
+According to Xinhua, the state-run news agency, “environmental sampling” of the Wuhan seafood market has found evidence of 2019-nCoV. Of the 585 samples tested, 33 were positive for 2019-nCoV and all were in the huge market’s western portion, which is where wildlife were sold. “The positive tests from the wet market are hugely important,” says Edward Holmes, an evolutionary biologist at the University of Sydney who collaborated with the first group to publicly release a 2019-nCoV sequence. “Such a high rate of positive tests would strongly imply that animals in the market played a key role in the emergence of the virus.”
+
+Yet there have been no preprints or official scientific reports on the sampling, so it’s not clear which, if any, animals tested positive. “Until you consistently isolate the virus out of a single species, it’s really, really difficult to try and determine what the natural host is,” says Kristian Andersen, an evolutionary biologist at Scripps Research.
+
+One possible explanation for the confusion about where the virus first entered humans is if there was a batch of recently infected animals sold at different marketplaces. Or an infected animal trader could have transmitted the virus to different people at different markets. Or, Bedford suggests, those early cases could have been infected by viruses that didn’t easily transmit and sputtered out. “It would be hugely helpful to have just a sequence or two from the marketplace [environmental sampling] that could illuminate how many zoonoses occurred and when they occurred,” Bedford says.
+
+In the absence of clear conclusions about the outbreak’s origin, theories thrive, and some have been scientifically shaky. A sequence analysis led by Wei Ji of Peking University and published online by the Journal of Medical Virology received substantial press coverage when it suggested that “snake is the most probable wildlife animal reservoir for the 2019‐nCoV.” Sequence specialists, however, pilloried it.
+
+Conspiracy theories also abound. A CBC News report about the Canadian government deporting Chinese scientists who worked in a Winnipeg lab that studies dangerous pathogens was distorted on social media to suggest that they were spies who had smuggled out coronaviruses. The Wuhan Institute of Virology, which is the premier lab in China that studies bat and human coronaviruses, has also come under fire. “Experts debunk fringe theory linking China’s coronavirus to weapons research,” read a headline on a story in The Washington Post that focused on the facility.
+
+Concerns about the institute predate this outbreak. Nature ran a story in 2017 about it building a new biosafety level 4 lab and included molecular biologist Richard Ebright of Rutgers University, Piscataway, expressing concerns about accidental infections, which he noted repeatedly happened with lab workers handling SARS in Beijing. Ebright, who has a long history of raising red flags about studies with dangerous pathogens, also in 2015 criticized an experiment in which modifications were made to a SARS-like virus circulating in Chinese bats to see whether it had the potential to cause disease in humans. Earlier this week, Ebright questioned the accuracy of Bedford’s calculation that there are at least 25 years of evolutionary distance between RaTG13—the virus held in the Wuhan virology institute—and 2019-nCoV, arguing that the mutation rate may have been different as it passed through different hosts before humans. Ebright tells Science Insider that the 2019-nCoV data are “consistent with entry into the human population as either a natural accident or a laboratory accident.”
+
+Shi did not reply to emails from Science , but her longtime collaborator, disease ecologist Peter Daszak of the EcoHealth Alliance, dismissed Ebright’s conjecture. “Every time there’s an emerging disease, a new virus, the same story comes out: This is a spillover or the release of an agent or a bioengineered virus,” Daszak says. “It’s just a shame. It seems humans can’t resist controversy and these myths, yet it’s staring us right in the face. There’s this incredible diversity of viruses in wildlife and we’ve just scratched the surface. Within that diversity, there will be some that can infect people and within that group will be some that cause illness.”
+
+Daszak and Shi’s group have for 8 years been trapping bats in caves around China to sample their feces and blood for viruses. He says they have sampled more than 10,000 bats and 2000 other species. They have found some 500 novel coronaviruses, about 50 of which fall relatively close to the SARS virus on the family tree, including RaTG13—it was fished out of a bat fecal sample they collected in 2013 from a cave in Moglang in Yunnan province. “We cannot assume that just because this virus from Yunnan has high sequence identity with the new one that that’s the origin,” Daszak says, noting that only a tiny fraction of coronaviruses that infect bats have been discovered. “I expect that once we’ve sampled and sampled and sampled across southern China and central China that we’re going to find many other viruses and some of them will be closer [to 2019-nCoV].”
+
+It’s not just a “curious interest” to figure out what sparked the current outbreak, Daszak says. “If we don't find the origin, it could still be a raging infection at a farm somewhere, and once this outbreak dies, there could be a continued spillover that’s really hard to stop. But the jury is still out on what the real origins of this are.”Top stories: Doggerland’s ‘lost world,’ star-swallowing black holes, and engineering killer moths
+Top stories: Doggerland’s ‘lost world,’ star-swallowing black holes, and engineering killer moths
+
+Lost world revealed by human, Neanderthal relics washed up on North Sea beaches
+
+Fifty thousand years ago, a rich territory named Doggerland stretched all the way from Great Britain to the Netherlands, under what is now the North Sea. But as glaciers melted 8500 years ago, that land was lost—as was evidence of the Neanderthals, modern humans, and other hominin species that occupied it. Now, thanks to a €70 million coastal protection project to shield the Dutch coast from sea-level rise, soil from the Stone Age is once again accessible—and it’s turning up ancient artifacts, from a woolly mammoth tooth to the bones and tools of ancient Europeans.
+
+Black holes caught in the act of swallowing stars
+
+At the center of nearly every galaxy lies a monster, a giant black hole millions or even billions of times heavier than the Sun. Most are dormant, lurking invisibly for thousands of years—until a star passes too close and is ripped to shreds. That triggers a monthslong tidal disruption event (TDE), which can shine as brightly as a supernova. Until a few years ago, astronomers had spotted only a handful of TDEs. But now, a new generation of wide-field surveys is catching more of them soon after they start—yielding new insights into the violent events and the hidden population of black holes that drives them.
+
+Genetically engineered moths can knock down crop pests, but will they take off?
+
+Diamondback moths love broccoli. They’re also fond of cabbage, cauliflower, and related crops. And they quickly evolve resistance to insecticides and crops genetically modified to kill them. But frustrated farmers might get a new weapon against them: genetically engineered versions of the moths that mate with wild pests and cause half their offspring to die.
+
+Outbreak of virus from China declared global emergency
+
+In a move that some critics say should have happened 1 week ago, the World Health Organization (WHO) has declared the outbreak of a novel coronavirus in China a global health emergency. WHO Director-General Tedros Adhanom Ghebreyesus announced the move at a press conference on Thursday evening in Geneva. The new disease, first made public by China on 31 December 2019, has already spread to 18 countries; 7834 people have been infected and 170 of them, all in China, have died.
+
+Underwater robot reveals hidden base of Antarctica’s ‘doomsday’ glacier
+
+Using a robot dropped through a 700-meter hole in the ice, scientists stationed on Antarctica’s Thwaites Glacier have captured the first video of the glacier’s grounding line, the mysterious boundary where ice meets land and where warm ocean water could be slowly melting the glacier’s base—putting it at risk of collapse.Orangutans Are Hanging On in the Same Palm Oil Plantations That Displace Them
+From a low-flying helicopter, conservationist Marc Ancrenaz peered down at the homogeneous rows of trees in a Borneo palm oil plantation and spotted something that made his heart sink: an orangutan nest. Until that moment 15 years ago, he had never seen one so out of place, away from its traditional rain forest habitat. “I thought, at this time, that these animals were doomed,” because it would be difficult for them to find sufficient food in such a setting, says Ancrenaz, who is scientific director for the France-based orangutan-conservation group Hutan.
+
+But as he continued to encounter orangutan nests in plantations over the years, Ancrenaz realized that the animals were, in some cases, thriving and even successfully reproducing in these areas. “It was really a surprise to us,” he says. Ancrenaz and his colleagues now suggest that the very palm oil plantations that are famously eating away at the apes’ forest habitat across Borneo—a large island divided between Indonesia, Malaysia and Brunei—could somewhat perversely provide a stopgap for a species that has dropped precipitously from more than 240,000 individuals in 1999 to just 100,000 today, according to research published in 2018 in Current Biology.
+
+In a new paper published in Biodiversitas, the team argues that instead of undertaking “rescue” operations—in which orangutans found on plantation and agricultural land are physically relocated to ever dwindling fragments of pristine Bornean forest—conservationists should try to bolster the animals’ survival where they are. Not everyone who works in orangutan conservation agrees, though, and there are hurdles to overcome—particularly, minimizing conflict with humans.
+
+Though there is little data on the relocated orangutans’ long-term survival, the new study paints a bleak picture: “Some reports from long term release sites suggest that medium to long term survival rates for reintroduced orangutans may be lower than 20%,” the authors write. Reasons for those rates could include the relocated animals engaging in fights with other orangutans nearby or experiencing difficulties adapting to a sudden change in surroundings—for example, the apes having to discover new locations of fruit trees and other food sources.
+
+Remains of palm fruit eaten by an orangutan. Credit: HUTAN KOCP
+
+Supporting orangutans already in plantations, through measures such as ensuring they have access to nearby forest and food resources, might help. There is, however, still much work to do in understanding how orangutans fare outside of their ideal habitat. Some of it has already begun: Cheryl Knott, an anthropologist at Boston University and founder of the Borneo-based Gunung Palung Orangutan Project, who was not involved with the new paper, is studying how living in logged forests and other altered environments affects primates’ diets, overall health and behavior.
+
+Ancrenaz and his colleagues acknowledge that relocations are unavoidable in some situations, such as when an orangutan is clearly unable to support itself in a plantation or when it has been captured and kept in a cage. And not everyone agrees that the relocations that are being undertaken are unnecessary or harmful to the animals. “There’s no NGO that’s going out and rescuing orangutans for the sake of rescuing them,” says Ashley Leiman, founder and director of the Orangutan Foundation, which occasionally carries out relocations in Borneo, and who was also not part of Ancrenaz and his colleagues’ work.
+
+If orangutans that take up residence in plantations and near farms are to be left there, conservationists will need to overcome the fact that many people in Borneo view these primates as pests that eat crops and chew on oil palm shoots. “They don’t see the orangutans as special,” says Liana Chua, an anthropologist at Brunel University London, who has researched local attitudes toward orangutans but was not involved in the new study. Although it is illegal to kill an orangutan or keep one captive in Borneo, those laws are poorly enforced and do not stop human residents from taking revenge when they feel an animal has damaged their property, Chua says.
+
+One way to ease such tensions could be to compensate farmers for orangutan-inflicted destruction, says study co-author Serge Wich, a conservation biologist at Liverpool John Moores University in England. Additionally, palm oil companies could be urged to tolerate the presence of orangutans if there were enough consumers willing to pay more for their products than ones from producers who do not prioritize orangutan conservation. Similar approaches have been tried in Africa, with low success because of corruption. But Chua and some other researchers think compensation programs could work in Borneo if there were clear guidelines defining who is responsible for making payments and under what circumstances. She says listening to local residents and offering sensible reimbursement could help to change mindsets because it would acknowledge communities’ own needs. “That’s what communities really want,” Chua says, “that respect and acknowledgement.”
+
+Ancrenaz suggests another strategy: putting physical barriers around village crops by, for example, organizing regular patrols or strategically constructing drainage canals (orangutans cannot swim). Similar methods have been tried with other species in places including Sri Lanka, where electric fences were erected to keep elephants at bay. In one village that tried the technique, elephants have been successfully deterred for six years running. None have been killed during that time.
+
+Chua proposes that awareness campaigns could recruit popular local celebrities to spread the word via social media that orangutans are an important species. A similar campaign launched by the U.K.-based conservation group International Animal Rescue, aimed at curbing the trend of keeping slow lorises as pets in Southeast Asia, got 800,000 people to sign an online pledge not to support the illegal pet trade, according to a spokesperson. Some owners even contacted the organization to surrender the animals after seeing the campaign video.
+
+Whatever strategies are deployed, given that orangutans continue to be forced out of the forest, it is clear that conservationists—as well as the people of Borneo—will have to adjust their thinking, Chua says. She thinks doing so is possible—“but it’s going to be tough,” she adds.Have We Solved the Black Hole Information Paradox?
+Black holes, some of the most peculiar objects in the universe, pose a paradox for physicists. Two of our best theories give us two different—and seemingly contradictory—pictures of how these objects work. Many scientists, including myself, have been trying to reconcile these visions, not just to understand black holes themselves, but also to answer deeper questions, such as “What is spacetime?” While I and other researchers made some partial progress over the years, the problem persisted. In the past year or so, however, I have developed a framework that I believe elegantly addresses the problem and gives us a glimpse of the mystery of how spacetime emerges at the most fundamental level.
+
+Here is the problem: From the perspective of general relativity, black holes arise if the density of matter becomes too large and gravity collapses the material all the way toward its central point. When this happens, gravity is so strong in this region that nothing—even light—can escape. The inside of the black hole, therefore, cannot be seen from the outside, even in principle, and the boundary, called the event horizon, acts as a one-way membrane: nothing can go from the interior to the exterior, but there is no problem in falling through it from the exterior to the interior.
+
+But when we consider the effect of quantum mechanics, the theory governing elementary particles, we get another picture. In 1974, Stephen Hawking presented a calculation that made him famous. He discovered that, if we include quantum mechanical effects, a black hole in fact radiates, although very slowly. As a result, it gradually loses its mass and eventually evaporates. This conclusion has been checked by multiple methods now, and its basic validity is beyond doubt. The odd thing, however, is that in Hawking’s calculation, the radiation emitted from a black hole does not depend on how the object was created. This means that two black holes created from different initial states can end up with the identical final radiation.
+
+Is this a problem? Yes, it is. Modern physics is built on the assumption that if we have perfect knowledge about a system, then we can predict its future and infer its past by solving the equation of motion. Hawking’s result would mean that this basic tenet is incorrect. Many of us thought that this problem was solved in 1997 when Juan Maldacena discovered a new way to view the situation, which seemed to prove no information was lost.
+
+Case closed? Not quite. In 2012, Ahmed Almheiri and collaborators at the University of California, Santa Barbara, presented in their influential paper a strong argument that if the information is preserved in the Hawking emission process, then it is inconsistent with the “smoothness” of the horizon—the notion that an object can pass through the event horizon without being affected. Given that the option of information loss is out of the question, they argued that the black hole horizon is in fact not a one-way membrane but something like an unbreakable wall, which they called a firewall.
+
+This confused theorists tremendously. As much as they disliked information loss, they abhorred firewalls too. Among other things, the firewall idea implies that Einstein’s general relativity is completely wrong, at least at the horizon of a black hole. In fact, this is utterly counterintuitive. For a large black hole, gravity at the horizon is actually very weak because it lies far away from the central point, where all the matter is located. A region near the horizon thus looks pretty much like empty space, and yet the firewall argument says that space must abruptly “end” at the location of the horizon.
+
+The main thrust of my new work is to realize that there are multiple layers of descriptions of a black hole, and the preservation of information and the smoothness of the horizon refer to theories at different layers. At one level, we can describe a black hole as viewed from a distance: the black hole is formed by collapse of matter, which eventually evaporates leaving the quanta of Hawking radiation in space. From this perspective, Maldacena’s insight holds and there is no information loss in the process. That is because, in this picture, an object falling toward the black hole never enters the horizon, not because of a firewall but because of time delay between the clock of the falling object and that of a distant observer. The object seems to be slowly “absorbed” into the horizon, and its information is later sent back to space in the form of subtle correlations between particles of Hawking radiation.
+
+On the other hand, the picture of the black hole interior emerges when looking at the system from the perspective of someone falling into it. Here we must “ignore” the fine details of the system that an infalling observer could not see because he or she has only finite time until they hit the singular point at the center of the black hole. This limits the amount of information they can access, even in principle. The world the infalling observer perceives, therefore, is the “coarse-grained” one. And in this picture, information need not be preserved because we already threw away some information even to arrive at this perspective. This is the way the existence of interior spacetime can be compatible with the preservation of information: they are the properties of the descriptions of nature at different levels!
+
+To understand this concept better, the following analogy might help. Imagine water in a tank and consider a theory describing waves on the surface. At a fundamental level, water consists of a bunch of water molecules, which move, vibrate and collide with each other. With perfect knowledge of their properties, we can describe them deterministically without information loss. This description would be complete, and there would be no need to even introduce the concept of waves. On the other hand, we could focus on the waves by overlooking molecular level details and describing the water as a liquid. The atomic-level information, however, is not preserved in this description. For example, a wave can simply “disappear,” although the truth is that the coherent motion of water molecules that created the wave was transformed into a more random motion of each molecule without anything disappearing.
+
+This framework tells us that the picture of spacetime offered by general relativity is not as fundamental as we might have thought—it is merely a picture that emerges at a higher level in the hierarchical descriptions of nature, at least concerning the interior of a black hole. Similar ideas have been discussed earlier in varying forms, but the new framework allows us to explicitly identify the relevant microscopic degrees of freedom—in other words, nature's fundamental building blocks—participating in the emergence of spacetime, which surprisingly involves elements that we normally think to be located far away from the region of interest.
+
+This new way of thinking about the paradox can also be applied to a recent setup devised by Geoff Penington, Stephen H. Shenker, Douglas Stanford and Zhenbin Yang in which Maldacena’s scenario is applied more rigorously but in simplified systems. This allows us to identify which features of a realistic black hole are or are not captured by such analyses.
+
+Beginning with the era of Descartes and Galilei, revolutions in physics have often been associated with new understandings of the concept of spacetime, and it seems that we are now in the middle of another such revolution. I strongly suspect that we may soon witness the emergence of a new understanding of nature at a qualitatively different and deeper level.Home Star Stunner: Best Ever Images of Solar Surface Herald New Era
+Why is the sun’s outer atmosphere so much hotter than its surface? What drives its 11-year cycle of magnetic activity? And how does its solar wind propagate out into the solar system? Scientists hope to answer all these questions and more in the coming decade, thanks to an armada of new missions that will scrutinize the sun in more detail than ever before. With the debut of two unprecedented spacecraft and the largest ground-based solar observatory ever built, research into our home star is set to reach new heights.
+
+One of the two spacecraft has already launched: NASA’s Parker Solar Probe, which soared skyward on August 12, 2018. Designed to approach our star within just 4 percent of the Earth-sun distance, or 0.04 astronomical units (AU), it is the closest mission ever sent to our star. The other craft, the European Space Agency’s (ESA’s) Solar Orbiter mission, is scheduled to lift off from Cape Canaveral, Fla., on February 7. Although projected to only reach 0.28 AU, this mission will capture some of the most detailed images of the sun ever seen, including the first pictures of its poles. And today scientists released inaugural images from the four-meter Daniel K. Inouye Solar Telescope (DKIST) on Maui in Hawaii. Run by the National Science Foundation in the U.S., these are the most detailed images ever taken of the solar surface.
+
+“It’s extremely exciting to be a solar physicist at this point in time, with all of these missions,” says Thomas Rimmele, an astronomer and project director of DKIST at the National Solar Observatory. “With just the first images [from DKIST], you see detail that we’ve never seen before. And this is really just the beginning.”
+
+DKIST’s five instruments are designed to both image the sun and probe its magnetic field, allowing scientists to discern the field’s strength and orientation. Scientists hope to use these data to help resolve the long-standing mystery of why the sun’s corona—its halolike outer atmosphere—is up to millions of degrees hotter than its surface. Data from DKIST will also allow researchers to probe the magnetic fields of the vast structures that arc and loop between these two regions.
+
+Complementing DKIST are the aforementioned Parker Solar Probe and Solar Orbiter. By repeatedly flying close to the sun over the next five years at record-setting speeds of nearly 700,000 kilometers per hour, the former will be able to measure pristine material ejected from our star, and it is already providing invaluable data from its early passes. “Parker Solar Probe is showing us signatures of the solar wind and the plasma in the corona that we’ve never seen before in previous missions,” says Nour Raouafi, project scientist for the probe at the Johns Hopkins University Applied Physics Laboratory.
+
+Meanwhile the Solar Orbiter has the capability to directly image the sun from its close-up vantage point—something the Parker Solar Probe lacks. Poking through small holes in the spacecraft’s titanium heat shield, cameras will provide the closest images of the sun ever taken. Beyond the delivery of such stunning snapshots, scientists are already excited about other insights this mission might reveal, such as how our star launches flares and coronal mass ejections—“space weather” events that can severely disrupt global power grids and telecommunications. “The main problem with space weather at the moment is [we have] a 12-hour warning at most,” says Stephanie Yardley, a solar physicist at the University of St. Andrews in Scotland. “If we [know] the evolution of the magnetic field of the sun and the solar atmosphere, we can gain some insight into how these eruptions are actually formed. It’s currently very difficult [to predict them].”
+
+The Solar Orbiter has one more trick up its sleeve, too. It will use repeated encounters with Venus to gradually raise the inclination of its orbit, eventually reaching 33 degrees above the plane of the planets if, as hoped, the mission is extended beyond its initial seven years. Doing so will enable it to orbit the sun at a high angle, capturing images of the sun’s poles. “We’re hoping to see how the magnetic field on the surface migrates toward the poles and eventually influences the ‘flip’ of the sun’s poles [every 11 years],” Yardley says.
+
+Numerous sun-observing spacecraft have been launched before but without the advanced capabilities of these new missions. ESA and NASA’s widely regarded and still operational Solar and Heliospheric Observatory (SOHO) launched in 1995, but it only sits at a distant 0.99 AU from the sun. The German-U.S. Helios probes in the 1970s, meanwhile, set the previous record for the closest approach to the sun of 0.29 AU, yet they have since been eclipsed by the Parker Solar Probe. And ESA and NASA’s Ulysses spacecraft used a gravitational assist from Jupiter to fly over the sun’s poles in the mid-1990s and early 2000s, but it did so without cameras to image what they looked like.
+
+Together, Raouafi says, these new missions herald an upcoming “golden age” of solar studies. “They have the potential to define the future direction of solar and heliophysics research,” he says. And Gregory Fleishman of the New Jersey Institute of Technology hopes they might inspire even more projects in the near future. He is currently part of a team seeking funding for a new large solar radio telescope after having just used a more modest array to probe eruptions of magnetic fields on the sun. “The golden age would mean the measurements are [across] all wavelengths,” Fleishman says. “One important range is entirely missing: the radio range, which is unique because it’s the only window where we can measure the dynamic coronal magnetic fields.”
+
+For scientists that have longed to answer some of the sun’s most intriguing questions, however, there has never been a better time to unearth its secrets. With the Parker Solar Probe expected to study the sun until 2025, the Solar Orbiter lasting until 2030 if its mission is extended, and DKIST potentially observing for decades to come, solar physicists such as Yardley are thrilled at what the future holds for our understanding. “We’re going to have these three different [missions] to provide us with all these different observations, the likes of which we’ve never had before,” she says. “Hopefully [they] can answer some of these big unanswered questions we have in solar physics at the moment.”Juventus 3-0 Fiorentina: Cristiano Ronaldo scores twice to reach 50 Juventus goals
+Ronaldo has scored 33 goals in 33 appearances for club and country this season
+
+Cristiano Ronaldo scored two penalties to take his tally to 10 goals in his last six games as Juventus beat Fiorentina 3-0.
+
+The hosts were first awarded a spot kick for handball in the first half and Ronaldo swept home the penalty.
+
+Rodrigo Bentancur was fouled inside the box towards the end of the second half and Ronaldo again converted.
+
+Matthijs de Ligt then headed in a third in injury time.
+
+Ronaldo has now scored in nine successive Serie A games for Juventus, becoming the first player to do so since David Trezeguet in December 2005.
+
+He has also scored 50 goals in just 70 appearances since joining the Italian giants in 2018.
+
+The win strengthens Juventus' place at the top of the table, with 54 points from 22 games - six clear of Inter Milan.England in South Africa: The issues facing England at start of new ODI cycle
+England beat New Zealand after a super over in their last 50-over match - the World Cup final at Lord's
+
+It's 205 days since England's last one-day international on THAT glorious, sun-kissed Sunday at Lord's.
+
+Then, England won their first 50-over World Cup in the most dramatic fashion but now, 6,000 miles away in the shadow of Table Mountain, a new chapter begins.
+
+Tuesday, and the first of three ODIs against South Africa, marks the beginning of a new four-year cycle as England ultimately build towards defending their world title in India in 2023.
+
+So how are the world champions looking going into the series, what issues are on the horizon and what changes could happen?
+
+Will Morgan stay on as captain?
+
+Morgan was appointed England captain shortly before the 2015 World Cup in Australia
+
+The biggest issue around the future of England's 50-over team surrounds their captain Eoin Morgan - the man who took them from no-hopers to world champions in the space of four years.
+
+Following the World Cup, Morgan did not immediately commit to staying on as skipper, citing back problems, and he has so far only guaranteed continuing until the Twenty20 World Cup in October in Australia.
+
+This - and the fact Morgan will be 36 when the next World Cup begins - raises serious doubts over whether he will be part of the England team in 2023.
+
+Former assistant coach Paul Farbrace, who was a key part of England's white-ball improvements before leaving the set-up in spring 2019, said Morgan may be tempted to walk away if his side win the T20 World Cup.
+
+Farbrace told BBC Sport: "Whether he will be playing in another four years, who knows? If his form is good and his fitness is good then there is no reason why he shouldn't."
+
+'Buttler the heir apparent'
+
+Buttler last captained England against Pakistan in May 2019 when Morgan was suspended
+
+Farbrace says that if - or when - Morgan does move on from the captaincy, the plan is in place within the England set-up for wicketkeeper-batsman Jos Buttler to take over.
+
+Buttler, 29, is the current vice-captain and has stood in on six occasions when Morgan has been unavailable.
+
+"Buttler is the heir apparent," Farbrace said. "He is a very good leader within that team. He will make a fantastic captain.
+
+"He and Morgs think very similarly about the game but, equally, he will be his own man.
+
+"He does more in the dressing room than people give him credit for. He has a big say in a lot of things. He and [Ben] Stokes are the two big talkers in the dressing room."
+
+Media playback is not supported on this device Watch the moment England won the World Cup
+
+Although he believes Buttler is ready to captain England, Farbrace said he would prefer Morgan to continue for at least two more years, until after the T20 World Cup in India in 2021.
+
+"If Jos doesn't take over the captaincy for another year, 18 months or two years and has an 18-month period into the World Cup, that would be perfect for him," Farbrace said.
+
+"There would be a danger if Jos took over too soon and he had four years to build a team then that might be too long.
+
+"I'd like to think Morgs will do it for the next couple of years and win the T20 World Cup at least once. It would also give Jos little bit more time to be in position to take over as captain."
+
+Who else could move on?
+
+The squad for England's series against South Africa is largely made up of the 2019 World Cup-winning cohort with a handful of additions and some key players rested.
+
+However, bowlers Jofra Archer and Tom Curran are the only World Cup winners who will be aged under 30 by the time the 2023 tournament begins.
+
+Liam Plunkett, 34, has not been selected to play in South Africa and it seems England have already moved on from the bowler who has played 89 ODIs and took 11 wickets during the World Cup campaign.
+
+Morgan, Adil Rashid and Moeen Ali would all be at least 34, although Rashid and Moeen's role as spinners give them a better chance of survival.
+
+Farbrace said he still expects most of the World Cup winners to be involved in three years' time but says England will be wary of fielding an ageing team.
+
+How many of England's World Cup winners will make India 2023? Player Age at start of 2023 World Cup Jason Roy 32 Jonny Bairstow 33 Joe Root 32 Eoin Morgan 36 Ben Stokes 31 Jos Buttler 32 Chris Woakes 33 Liam Plunkett 37 Adil Rashid 34 Jofra Archer 27 Mark Wood 33 James Vince 31 Moeen Ali 35 Liam Dawson 32 Tom Curran 27
+
+"Most will want to be there," he said. "Winning the World Cup at home was brilliant for them and brilliant for the game, but they would like to win it in a different country as well.
+
+"With Morgan, Rashid and Moeen, England will want them to be playing good cricket and not going in with injuries.
+
+"The other thing would be the mobility of them. If you have too many older players who lack mobility and are not so good in the field you will struggle, because in India on small grounds your fielding is going to have to be magnificent.
+
+"It will be a case of wanting their variation and skills but wanting them to be at the top of their game."
+
+So who could come in?
+
+There were signs of England looking to the future in late 2019 with batsman Tom Banton, all-rounder Lewis Gregory and bowlers Pat Brown, Saqib Mahmood and Matt Parkinson making their T20 debuts during the series win over New Zealand.
+
+Banton, Mahmood and Parkinson have all been included for the series in South Africa, with Brown only missing because of a back injury.
+
+Middlesex and England bowler Steven Finn expects Lancashire fast bowler Mahmood to make many more international appearances.
+
+"Domestically, whenever I saw him on TV last year or when Middlesex played Lancashire he bowled very, very impressively," Finn told BBC Sport. "He is someone to keep an eye on."
+
+Banton averaged 31.85 in seven matches in the Big Bash for Brisbane Heat
+
+Somerset batsman Banton, 21, is perhaps the most well known of the trio. He scored a T20 century for Somerset last summer, starred with three fifties in an impressive stint in the Big Bash League this winter and has been described as a "future star" by former England captain Michael Vaughan.
+
+"He could quite easily come into that England team and keep the momentum going," Farbrace said.
+
+"He is a fantastic player and has been very impressive. Phil Salt at Sussex is another who is very exciting."
+
+Salt, who has also been impressing in the Big Bash, was called into the England squad as injury cover last summer, although he did not play.
+
+Warwickshire director of cricket Farbrace also highlighted Bears batsman Sam Hain, 24, Warwickshire fast bowler Henry Brookes, 20, Lancashire batsman Liam Livingstone, 26, who has played two T20s for England, and Sussex bowler Ollie Robinson as other players who could be involved.
+
+Robinson, who is Farbrace's stepson, has taken 137 County Championship wickets across the past two seasons and made his England Lions debut in 2019.
+
+Mission India 2023 - find more death bowlers?
+
+So England have three years to mould a team capable of defending their title in 2023.
+
+To do so they must take into account the conditions they will face on the subcontinent, conditions which are likely to differ greatly to those in England.
+
+England selected 34 players between the 2015 and 2019 World Cups before eventually settling on a stable squad of players in the run-up to the 2019 tournament - the arrival of Archer aside.
+
+Farbrace expects England to employ a similar period of experimentation over the next two years.
+
+"We didn't nail down our plan for the first 18 months," Farbrace said. "It was very fluid.
+
+"England will have 15 months of experiment and widening the talent pool and then narrow it down, nailing down the game plan that is specific for India.
+
+"The last three World Cups have been won by the host nation and in 2023 England can expect to find small grounds with flat, high-scoring pitches.
+
+Jofra Archer can expect to be part of England's 2023 World Cup squad and has gained experience of bowling in India at the Indian Premier League
+
+"How well you bowl in the last 10 overs will be an absolutely key part of the next World Cup. Who wins it will have the best bowling attack, not the best batting line-up.
+
+"England will be happy where their batting is at. There is no need to change too much with that.
+
+"The key now is making sure we have enough variety and skill in our bowling.
+
+"There will not be too many wickets with the new ball so you want players who can close matches out and stop opposition batsmen scoring more than 80 runs off the last 10 overs.
+
+"Your yorker bowlers, slower-ball bowlers and skilful seamers are going to play a massive part. That will end up being the difference between the teams."
+
+Although not part of the upcoming South Africa series, the inaugural ICC Cricket World Cup Super League begins in May 2020 and will form part of the qualification process for India 2023.
+
+Hosts India and the top seven sides in the World Cup Super League will guarantee their place at the showpiece.
+
+England's first matches in the Super League are a three-match series with Australia in July.Tennis news – When could Novak Djokovic surpass Roger Federer and win No.21?
+Djokovic’s eighth title in Melbourne, sealed with a five-set win over Dominic Thiem, moved him to within three of Federer in the all-time charts.
+
+The 32-year-old now has his sights on surpassing the Swiss great, conceding that he probably has two seasons to achieve it before the rigors of fatherhood take over.
+
+"At this stage of my career, Grand Slams matter the most. Trying to reach that historic number one is something I would love to achieve and I’m working towards that," Djokovic said in front of ecstatic Serbian fans on Eurosport.
+
+Video - Djokovic targeting Federer's Grand Slam record 06:59
+
+"Being a father, I really want to participate in the upbringing of my children. I want to spend quality time with them, so I know that the moment I slow down and selectively play tournaments is coming very close.
+
+"I want to have a shot at number one, it’s going to be this year or next year. I’m going to try and give it all and reach that."
+
+So can Djokovic do it – and if so, when might he achieve it?
+
+Grand Slam men's titles (all-time)
+
+Player Grand Slam singles titles Roger Federer 20 Rafael Nadal 19 Novak Djokovic 17 Pete Sampras 14 Roy Emerson 12 Rod Laver 11 Bjorn Borg 11
+
+Video - Fanatical For: Experience Novak Djokovic's victory alongside his die-hard fans 04:04
+
+Wilander: Djokovic can hit 19 majors in 2020
+
+Eurosport expert Mats Wilander is backing Djokovic to win two more Slams in 2020 to move within one of Federer.
+
+"So winning here, does that make him the favourite at Wimbledon where he is defending? Yes, that’s 18. [It] makes him the favourite at the US Open, that’s 19," Wilander said.
+
+"At the end of the year, we could have two players on 20 or two on 19 or even more because Novak had can win all four."
+
+"This is a huge win for him going forwards. A loss here would have been very difficult to get confidence and come back. But the door is open for him to start climbing through it and talk about being the greatest ever."
+
+When could the magic No.21 arrive?
+
+Firstly, this assumes Federer will not win another Slam. The Swiss’ groin issue in Melbourne highlighted the troubles of transporting a 38-year-old frame through a two-week tournament, but he can’t be completely discounted. Wimbledon remains his best hope, his serve capable of keeping matches super short, but can he banish memories of last year’s choke against Djokovic?
+
+It’s all hypothetical but Djokovic still looks primed for a sixth Wimbledon title (18). But winning the US Open immediately afterwards is far from certain given he’s won 'just' one of the last four editions. A more conservative estimate would suggest No.19 arrives in Melbourne next year before Djokovic wins a fourth straight Wimbledon (20). As for No.21? Given his vow to tone down his commitments after the 2021 season, all his efforts can fix on one final flourish at the US Open.
+
+Of course, there are plenty of problems with this prophecy…
+
+Video - Tennis Legends: Is it time to move the Australian Open indoors? 04:46
+
+The Nadal and Next Gen factors
+
+Djokovic is four unanswered Slams from taking top spot in the men’s game – but that relies on two men coming up short.
+
+Rafael Nadal also has a strong claim to the GOAT throne, despite winning 63% of his majors at the same event. The French Open has provided a constant source of joy for the Spaniard, who will go for a ridiculous 13th title in Paris this summer. Should he triumph, he too would be on 20 titles.
+
+But if Nadal is a threat to Djokovic, then who is the threat to Nadal?
+
+Step forward, Dominic Thiem. The Austrian looks the only player capable of beating Nadal on clay, having done so in each of the last four seasons. The 26-year-old has lost the past two French Open finals to Nadal, taking just one set, but his victory over him in Melbourne will fuel belief that he can do it again on his favoured surface.
+
+And it’s not just Thiem threatening to break through. Alexander Zverev finally performed at a five-set event in Australia, Daniil Medvedev emerged as a likable villain when he almost beat Nadal in the 2019 US Open final and Stefanos Tsitsipas looks a huge talent after he won the ATP Finals in London last year.
+
+Djokovic, Nadal and (to some extent) Federer are managing their physical decline by maintaining their aura of invincibility – much like the latter years of Manchester United under Sir Alex Ferguson – accepting that their Next Gen rivals will occasionally blast them off court, but will lack the belief and consistency to knock them out at majors. But the talent gap has finally been bridged and freebie Slams will soon be in the past for the Big Three.
+
+The upshot? Federer may already be safe of 20 titles. Or, perhaps, Djokovic and Nadal could join him on 20 and then find it impossible to win that elusive 21st...

@@ -1,0 +1,50 @@
+Don't like wearable tech? Get your bedroom to track you instead
+Rami Niemi
+
+“To know thyself is the beginning of wisdom”. Soon, however, that wisdom will not come from watches and rings that we wrap on our bodies, but the very walls and spaces we inhabit. Previously, information such as heart-rate, emotional state and cognitive and physical stress was collected by wearable devices – now we are able to measure them via sensors in the space itself.
+
+A single space will be a dynamic extension of our own psyches. Ubiquitous sensing in our environments paired with machine learning will transform how we interact with our spaces and how they interact with each of us. By becoming extensions of ourselves, such spaces will help us to be more effective and successful in what we are trying to accomplish, as well as turning a single physical space into one that dynamically serves many purposes for multiple people.
+
+Advertisement
+
+In 2020, we will see our spaces evolve as technological partners that may know more about us than we do. It will change the most intimate definition and relationship of how we interact with and think about the materials and information in the walls and air around us.
+
+The reactive and empathetic technological brain of our spaces will rely on the amalgamation of data from sensors that track proximity, CO2, our bodies’ thermal dynamics, emotion, eye gaze and diameter, humidity, temperature, motion, light, pressure, ultrasound and microphones learning and gaining insight into our cognitive and physical wellness from the dynamics and spectral changes of our voices and ambient environments.
+
+Read next How China's coronavirus outbreak started, explained How China's coronavirus outbreak started, explained
+
+The output of these sensors will be paired with machine learning and AI assessment, allowing our spaces to understand changes in our emotions. For example: my research group at Dolby Laboratories has been able to show changes in the density of CO2 in a space can correspond with changes in emotion and stress of individuals in the room. Combining this with input from other sensors, such as heart rate and thermal cameras, we can show that changes in the thermal signature correspond to shifts in an individual’s engagement and attention.
+
+This sort of personal information will prompt rooms to adapt and modify their temperature, colour, sound and ambient and natural lighting to best support what the individual is trying accomplish. Perhaps that’s morphing into a space that helps us reach an effective flow state, or it may be one that inches us closer to calm or helps us to have more effective sleep.
+
+Advertisement
+
+Smart-mattress innovators such as BRYTE have incorporated “empathetic” technology that uses biometrics to modify the temperature and firmness of its mattress to dynamically improve a user’s sleep. Its system already enables integration to Hue lighting and Nest temperature controls, extending and connecting optimisation of the user’s internal state and goal of improved sleep into the dynamics of the room and space.
+
+We will see elders, who would otherwise be in care facilities, empowered to live autonomously because their emotional and physical wellbeing are more transparent and better protected. This has the impact of improving their quality of life and saving the individual substantial costs.
+
+Numerous companies are introducing technologies that will empower individuals through walls and spaces that listen, inform, and aid the mind and body. Both Nokia and IBM have significant efforts to use sensors that are easily introduced or already inhabit spaces to improve and extend the quality and autonomy of living for an ageing population. IBM has even been evaluating applications of LiDAR in the home as a way of tracking location and changes in gait associated with shifts in emotional and physical well being.
+
+Read next How to dodge the beef bender and keep your January detox going How to dodge the beef bender and keep your January detox going
+
+Establishing trusted and compliant data privacy protocols for exchange, use, and a transparent data lifecycle is critical. This is a topic under discussion, with many governments establishing regulations such as the General Data Protection Regulation and the California Consumer Privacy Act (going into effect in 2020), as well as many companies making earnest commitments to design with privacy in mind.
+
+Advertisement
+
+2020 will mark a sea change in what we expect from our rooms. Rather than living our lives in static spaces and moving to new spaces when we change our goals and intent, our spaces will start to change with us and help us be more successful.
+
+Poppy Crum is chief scientist at Dolby Laboratories and an adjunct professor at Stanford University.
+
+More great stories from WIRED
+
+🍅 Why do modern tomatoes taste so bad?
+
+🚙 How Tesla became the world's most overvalued car company
+
+📽️ Marvel at the incredible real-life Iron Man
+
+Advertisement
+
+📢 How Slack ruined work
+
+👉 Follow WIRED on Twitter, Instagram, Facebook and LinkedIn

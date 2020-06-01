@@ -1,0 +1,13 @@
+================================
+Luke: Lucene Toolbox Project
+================================
+
+This software includes icon images from
+
+    The Elegant Icon Font
+
+which can be downloaded from
+
+    https://www.elegantthemes.com/blog/resources/elegant-icon-font
+
+These icons are dual licensed under the GPL 2.0 and MIT.
