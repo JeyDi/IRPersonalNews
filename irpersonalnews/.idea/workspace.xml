@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="irpersonalnews:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7e4823b-f346-4000-a2ed-96a65f905a6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/irpersonalnews_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/irpersonalnews_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/irpersonalnews_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/irpersonalnews.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_7_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_7_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_7_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_7_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_7_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irpersonalnews.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../irpersonalnews_new/irpersonalnews.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/artifacts/irpersonalnews_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/artifacts/irpersonalnews_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__ognl_ognl_3_0_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_7_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_apache_lucene_lucene_core_7_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_apache_lucene_lucene_queries_7_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_7_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_7_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_thymeleaf_thymeleaf_2_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring4_2_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_unbescape_unbescape_1_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/irpersonalnews.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/documents/import.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/1/politics-bbc_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/1/politics-bbc_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/1/politics-bbc_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/1/politics-cnn_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/1/politics-cnn_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/1/science-aaas_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/1/tech-verge_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/1/tech-verge_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/1/tech-wired_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/10/life-ind_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/10/life-ind_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/10/life-vogue_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/10/life-vogue_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/10/life-vogue_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/10/politics-bbc_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/10/sport-bbc_s_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/10/sport-bbc_s_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/10/sport-bbc_s_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/11/life-ind_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/11/life-vogue_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/11/politics-bbc_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/11/politics-bbc_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/11/politics-cnn_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/11/politics-cnn_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/11/politics-cnn_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/11/sport-eusport_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/2/politics-bbc_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/2/politics-bbc_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/2/politics-cnn_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/2/politics-cnn_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/2/politics-cnn_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/2/science-aaas_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/2/science-sa_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/2/sport-bbc_s_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/3/science-aaas_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/3/sport-bbc_s_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/3/sport-bbc_s_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/3/sport-eusport_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/3/tech-verge_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/3/tech-verge_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/3/tech-verge_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/3/tech-wired_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/3/tech-wired_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/4/politics-bbc_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/4/science-aaas_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/4/science-sa_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/4/tech-verge_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/4/tech-verge_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/4/tech-verge_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/4/tech-wired_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/4/tech-wired_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/5/politics-bbc_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/5/science-aaas_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/5/science-aaas_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/5/science-aaas_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/5/science-sa_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/5/science-sa_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/5/tech-verge_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/5/tech-verge_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/5/tech-wired_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/6/life-ind_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/6/science-aaas_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/6/science-aaas_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/6/science-sa_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/6/science-sa_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/6/science-sa_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/6/sport-bbc_s_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/6/sport-bbc_s_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/6/sport-eusport_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/7/life-ind_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/7/science-aaas_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/7/science-aaas_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/7/science-sa_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/7/sport-bbc_s_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/7/sport-bbc_s_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/7/sport-bbc_s_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/7/sport-eusport_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/7/sport-eusport_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/8/science-aaas_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/8/sport-bbc_s_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/8/sport-bbc_s_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/8/sport-eusport_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/8/sport-eusport_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/8/sport-eusport_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/8/tech-verge_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/8/tech-wired_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/8/tech-wired_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/9/life-ind_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/9/life-ind_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/9/life-ind_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/9/life-ind_5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/9/life-vogue_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/9/politics-bbc_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/9/politics-cnn_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/9/politics-cnn_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/dump_users/9/sport-eusport_4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/1/life.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/1/politics.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/1/science.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/1/sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/1/tech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/1/topic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/10/life.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/10/politics.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/10/science.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/10/sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/10/tech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/11/life.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/11/politics.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/11/science.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/11/sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/11/tech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/2/life.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/2/politics.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/2/science.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/2/sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/2/tech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/3/life.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/3/politics.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/3/science.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/3/sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/3/tech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/4/life.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/4/politics.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/4/science.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/4/sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/4/tech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/5/life.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/5/politics.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/5/science.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/5/sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/5/tech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/6/life.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/6/politics.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/6/science.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/6/sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/6/tech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/7/life.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/7/politics.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/7/science.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/7/sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/7/tech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/8/life.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/8/politics.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/8/science.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/8/sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/8/tech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/9/life.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/9/politics.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/9/science.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/9/sport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/documents/users/9/tech.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/index/_0.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/index/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/index/_0.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/index/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/index/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/profiles_index/_0.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/profiles_index/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/profiles_index/_0.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/profiles_index/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/resources/profiles_index/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/java/app/CosineSimilarity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/java/app/IndexBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/java/app/NewsTweet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/java/app/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/java/app/TextAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/java/app/TweetReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/java/app/UserProfileBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/java/service/CreateResultsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/java/service/NewsSearcherService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/java/service/ResultReranking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/java/service/UserProfileSearchService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/java/webapp/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/java/webapp/QueryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/static/images/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/static/images/background_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/static/images/user1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/static/images/user10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/static/images/user2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/static/images/user3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/static/images/user4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/static/images/user5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/static/images/user6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/static/images/user7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/static/images/user8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/static/images/user9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/stopwords_en.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/templates/results.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/src/main/resources/templates/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/stopwords_en.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/static/images/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/static/images/background_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/static/images/user1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/static/images/user10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/static/images/user2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/static/images/user3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/static/images/user4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/static/images/user5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/static/images/user6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/static/images/user7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/static/images/user8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/static/images/user9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/stopwords_en.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/templates/results.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/classes/templates/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/static/images/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/static/images/background_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/static/images/user1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/static/images/user10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/static/images/user2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/static/images/user3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/static/images/user4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/static/images/user5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/static/images/user6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/static/images/user7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/static/images/user8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/static/images/user9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/stopwords_en.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/templates/results.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IRNProject/target/irpersonalnews-1.0/WEB-INF/classes/templates/search.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cirYs65Sdzn0Cahvou25epAxmm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="irpersonalnews" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="webapp.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7e4823b-f346-4000-a2ed-96a65f905a6e" name="Default Changelist" comment="" />
+      <created>1591022305020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591022305020</updated>
+      <workItem from="1591022310059" duration="355000" />
+      <workItem from="1591022671324" duration="532000" />
+      <workItem from="1591023803755" duration="5856000" />
+      <workItem from="1591031826414" duration="2996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="63" key="#Project_Structure" timestamp="1591032032414">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="416" y="63" key="#Project_Structure/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1591032032414" />
+    <state x="460" y="278" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591032200658">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="460" y="278" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1591032200658" />
+    <state width="1254" height="217" key="GridCell.Tab.0.bottom" timestamp="1591053119563">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1254" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1591033315320" />
+    <state width="1254" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1591053119563" />
+    <state width="1254" height="217" key="GridCell.Tab.0.center" timestamp="1591053119560">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1254" height="217" key="GridCell.Tab.0.center/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1591033315319" />
+    <state width="1254" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1591053119560" />
+    <state width="1254" height="217" key="GridCell.Tab.0.left" timestamp="1591053119558">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1254" height="217" key="GridCell.Tab.0.left/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1591033315319" />
+    <state width="1254" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1591053119558" />
+    <state width="1254" height="217" key="GridCell.Tab.0.right" timestamp="1591053119561">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1254" height="217" key="GridCell.Tab.0.right/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1591033315319" />
+    <state width="1254" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1591053119561" />
+    <state width="1254" height="217" key="GridCell.Tab.1.bottom" timestamp="1591053119565">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1254" height="217" key="GridCell.Tab.1.bottom/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1591033315321" />
+    <state width="1254" height="217" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1591053119565" />
+    <state width="1254" height="217" key="GridCell.Tab.1.center" timestamp="1591053119564">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1254" height="217" key="GridCell.Tab.1.center/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1591033315320" />
+    <state width="1254" height="217" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1591053119564" />
+    <state width="1254" height="217" key="GridCell.Tab.1.left" timestamp="1591053119564">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1254" height="217" key="GridCell.Tab.1.left/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1591033315320" />
+    <state width="1254" height="217" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1591053119564" />
+    <state width="1254" height="217" key="GridCell.Tab.1.right" timestamp="1591053119565">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1254" height="217" key="GridCell.Tab.1.right/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1591033315320" />
+    <state width="1254" height="217" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1591053119565" />
+    <state x="346" y="182" key="RollbackChangesDialog" timestamp="1591026983977">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="346" y="182" key="RollbackChangesDialog/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1591026983977" />
+    <state x="232" y="63" key="SettingsEditor" timestamp="1591033311842">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="232" y="63" key="SettingsEditor/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1591033311842" />
+    <state x="510" y="357" key="classpath-attribute-editor" timestamp="1591026413059">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="510" y="357" key="classpath-attribute-editor/0.23.1440.877/-236.-1057.1920.1057@0.23.1440.877" timestamp="1591026413059" />
+  </component>
+</project>

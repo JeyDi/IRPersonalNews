@@ -1,0 +1,158 @@
+What the Iowa Caucus means for getting Iowa online
+If you need to get online in Winterset, Iowa (population 5,200), you head to the library. Free Wi-Fi has been in place for a while, but starting this week, the library is lending out ten Sprint mobile hotspots in hardshell cases, prepped for students and residents who can’t count on connectivity otherwise.
+
+It’s one of the many creative ways local leaders in Winterset have worked to ensure every person in their community has reasonable access to the internet. Kids who live out in the country still go to school in Winterset, and often submit their homework online as part of the district’s one-to-one Chromebook deal. But with only choppy wireless or satellite signals, it’s hard for country kids to hand in their assignments from home.
+
+“Folks in big cities don’t understand that it’s really different here,” says Jean Bosch, director of the Winterset Public Library. “We just don’t have the same access, and it’s not okay.”
+
+Campaigns have pledged tens of billions toward connecting rural America
+
+The problem is much bigger than Winterset. In 2016, the FCC estimated more than 24 million Americans lack access to broadband, and even that was probably an underestimate. Two years later, Microsoft ran its own study and found the FCC had vastly underestimated, determining that close to 163 million people were being left out of the push for the faster web. It’s particularly a problem for rural communities, which are ten times more likely to lack broadband access.
+
+In Iowa, it’s been this way for years. According to the commission’s most recent study, only 77 percent of rural Iowans had access to high-speed fixed broadband (25 Mbps down and three up, per FCC standards). That’s only a 17 percent increase over the past five years. Nearly all homes in the urban areas of the state have access to high-speed internet, but rural areas have been slow to catch up, largely because of the sheer expense of connecting them.
+
+“If we had the ability to serve sparsely populated areas with a decent return on investment, we would have all been hooked up already,” Dave Duncan, CEO of the Iowa Communications Alliance, tells The Verge. In some rural communities, Duncan says, a telecom could lay a mile of fiber or coaxial cable and only be able to connect one home.
+
+The traditional telecoms haven’t gotten the rural residents of Winterset online — and what’s left is a patchwork of grants and public programs that can be hard to predict and harder to sustain. And while the Iowa Caucus has brought massive political attention to the small state, little of that attention has gone to the state’s networks. Campaigns have pledged tens of billions toward connecting rural America, but it’s still a secondary issue for the candidates, raising uncomfortable questions about how long towns like Winterset may have to wait to join the rest of the country online.
+
+Nine days before the caucuses, people were lined up in eighteen-degree weather outside the Ames City Auditorium to see Sanders with Michael Moore, Rep. Alexandria Ocasio-Cortez and the band Portugal, the Man. For the Sanders supporters, the biggest applause lines were about health care.
+
+“If you are tired of student debt, if you are sick and tired and scared of climate change, if you are disgusted with racism and sexism and homophobia and xenophobia, if you believe that health care is a human right, you can’t sit it out,” Sanders told a crowd of hundreds.
+
+At rallies and town halls across the state this past week, health care, climate change, and education were the top concerns, no matter which candidate was on stage. That’s in line with Gallup polling, which shows infrastructure as thirteenth behind more common concerns like health care, education and economic policy. But the simple question of internet access sits in the background of many of those issues.
+
+Alisha Jenecke, a red-haired home-care worker from West Des Moines, says the main issue that brought her to the Sanders rally was health care. But in her work providing that care, she feels the impact of spotty internet almost every day.
+
+“If my signal is gone, I can’t do my job. I had an internet black hole yesterday in someone’s apartment in the middle of downtown Des Moines,” Jenecke tells The Verge. “It’s super annoying to have to write everything down and then go in later and open up the document and put everything back in later. It’s extra work.”
+
+In more rural areas outside Des Moines, connectivity is an even bigger problem. Jeremy Mostek, the founder of Pyro’s Pride fireworks store in Mitchell, Iowa, has trouble watching videos displaying any new products from his Chinese suppliers before he purchases them and sells them to customers. Some folks in Mitchell never bothered making Facebook or Netflix accounts at all because of a lack of access.
+
+Back in Winterset, a few years ago, the Winterset Public School District put stickers up on local businesses signifying that they were a safe place for students to do their homework if they didn’t have access at home. If the businesses are closed, students sit in their cars outside of restaurants to upload their assignments.
+
+In some ways, it’s the perfect problem for big government to solve. The FCC is already tasked with overseeing America’s network, and the commission already operates a range of programs aimed at bringing the internet to underserved areas. But for whatever reason, those programs haven’t reached places like Winterset.
+
+Part of the problem is information. The FCC’s coverage maps rely on self-reporting from telecoms, which often means exaggerated coverage on the official maps. The maps also don’t take into account the quality of the connection, whether it’s through satellite, fixed wireless, coaxial cable, or fiber. An entire community in one county could be listed as having wireless or satellite high-speed internet access, but if they’re in a valley where the beams don’t reach, that access won’t be very useful.
+
+These shoddy maps have enraged both Republicans and Democrats in Congress. “The current maps used to allocate resources are woefully inaccurate and result in overbuilding in some areas while other areas remain unserved or underserved,” Rep. Bob Latta (R-OH) wrote in The Hill on Thursday. Just last month, the House Energy and Commerce Committee — of which Latta is a member — overwhelmingly approved a bill that would make it illegal for telecoms to “willfully, knowingly, or recklessly submit inaccurate broadband service data.” The bill is still waiting for a vote on the floor and in the Senate.
+
+Josh Byrnes, the general manager of Osage Municipal Utilities, has spent the last four years trying to fix his area’s connectivity problem.
+
+Osage, Iowa, is a town of around 3,500 people, only two dozen miles south of the Minnesota border. It’s one of the few municipalities in all of Iowa that has its own public gas, electricity, and telecommunications services. Byrnes knows everyone in Osage and the surrounding areas, giving two-fingered waves as he rolls through the neighborhood in his white Ford.
+
+Osage now has broadband but Mitchell, only a five-minute drive north, is one of those communities that is going without. But after months of work by Byrnes and nearly $400,000, the small village will soon be hooked up.
+
+Surprisingly, the money is not coming from the FCC, but from the Department of Agriculture. Earlier this January, the USDA announced Osage would receive a $397,749 grant through the department’s Reconnect program to run fiber to Mitchell. Byrnes applied for that grant after spending countless hours knocking on his neighbors’ doors, getting to know their needs and families, and discovering that Osage didn’t have the resources it needed to expand into their area all on its own.
+
+“If I hadn’t got that USDA grant, there was nobody that was coming to give those people internet. It was never going to happen,” Byrnes says. “When I submitted that grant, I said, I’m gonna cry either way. I’m gonna cry if I get it, and I’m gonna cry if I don’t get it.”
+
+Starting this spring, Osage Municipal Utilities will start putting that money to good use, supplying broadband to farms, businesses, and households in the underserved areas of Mitchell County. Byrnes calls it a “game changer” for the village and its businesses.
+
+One of Mitchell’s businesses, the Art of Education, was founded by Jessica and Derek Balsley in 2011. After several years working as an art teacher in Iowa, Jessica Balsley scouted around the country for a masters program focused on art education, but she came up short. So she and her husband got to work creating their own accredited university, built entirely online. But living in Mitchell made that already difficult task almost impossible, thanks to Verizon HomeFusion.
+
+“You couldn’t have your video meetings. You couldn’t sync terabytes of data,” Derek Balsley says. So the Balsleys were forced to uproot their business from Mitchell and bring it to Osage.
+
+“We’d love to have a beautiful university building in a rural setting like Mitchell, but the problem is that you just can’t have the connectivity and the high-speed access to make it happen,” Derek Balsley tells The Verge. “For anybody who is interested in saving our rural areas, there is probably nothing more important that would allow these rural areas to thrive like they used to except the internet.”
+
+This isn’t the first time politicians have made big promises about rural broadband. As part of his 2016 campaign, Donald Trump promised a trillion-dollar infrastructure package that would, in part, fund broadband build-outs in small towns like Osage, Mitchell, and Winterset. But after half a dozen false starts, that infrastructure deal ended up taking a back seat to tax cuts, the abortive Obamacare repeal effort, and the ongoing immigration fight. If any families like the Balsleys had counted on Trump’s infrastructure package, they’re still waiting.
+
+The biggest progress made during the past four years has come from FCC chairman Ajit Pai. In a meeting last Thursday, the FCC voted to approve a program called the Rural Digital Opportunity Fund to succeed its Connect America Fund that came before it. RDOF creates a pot of more than $20 billion for cooperatives, satellite operators, and other telecoms to compete for in order to support broadband projects in unserved areas across the country.
+
+But the rebranded broadband program hasn’t won everyone over. Commissioner Geoffrey Starks, one of the two Democratic FCC commissioners, dissented to the RDOF order, saying the current version excludes “any area that the Commission ‘know[s] to be awarded funding through the U.S. Department of Agriculture’s ReConnect Program or other similar federal or state broadband subsidy programs, or those subject to enforceable broadband deployment obligations.” At Thursday’s meeting, Chairman Ajit Pai said RDOF would ban big companies that already have buildout goals they promised to meet but never did, but the uncertainty puts smaller telecoms like Osage in a difficult spot.
+
+At the rallies and town halls, Democrats are promising that things will be different when they’re in charge, and most of what they’re promising is money. Joe Biden has pledged to invest $20 billion into rural broadband, if elected. Pete Buttigieg is offering $80 billion, with a promise to fund locally owned networks where their big telecoms fall short. Sanders has pledged as much as $150 billion, as part of his Green New Deal plan, that would flow to “publicly owned and democratically controlled, co-operative, or open access broadband networks.” But like any campaign promise, it’s not clear how much of that money will get through Congress, and there’s a growing anxiety among experts that money alone isn’t enough.
+
+“You can’t just throw money at this”
+
+“You can’t just throw money at this,” Harold Feld, senior vice president at Public Knowledge, tells The Verge. “We’re now having huge scandals about companies like Frontier and Centurylink that took the money but didn’t provide the service.”
+
+Some plans would go further than just money. Proposals from Elizabeth Warren and Bernie Sanders would preempt any state laws that ban local communities from building their own municipal and public networks. The plans would also send their money ($85 billion and $150 billion respectively) directly to electricity and telephone cooperatives, nonprofits, tribes, local governments, and municipal networks like Osage.
+
+There are already programs like Lifeline that put money directly into the hands of consumers. This approach makes the customers more valuable to carriers because they’re able to pay for more access than they were before — and in theory, lets them hold the companies accountable for the speeds low-income Americans receive. But smaller cooperatives like Osage say they know their communities far better than Verizon and AT&T.
+
+“Verizon is accountable to its shareholders,” Feld says. “It’s better if you get someone who’s in the community, because they’re doing this because they know the people.”
+
+And 5G, the technology many believe will reshape how rural communities access the internet, doesn’t change the economics. Wireless towers are still hooked up to the rest of the internet through high-capacity cables and wires. In areas like Mitchell, homes can be miles apart, some on top of hills, some deep in valleys, and this landscape dramatically affects their connectivity. If wireless is unavailable to them, they often opt for satellite services like Windstream and HughesNet that can be choppy and not live up to the speeds the companies promise.
+
+“My concern is that we don’t make policy prematurely,” Gigi Sohn, tech policy fellow at Georgetown Law, said at a hearing on rural connectivity last week. “There’s lots of talk about the ‘Race to 5G,’ but 5G is a marathon, not a sprint. 5G is coming, but it’s unwise to make broadband policy based on what 5G might be.”
+
+In Osage, at least, broadband access has led to a swell in new business. Byrnes says former residents have started coming back to build businesses. Riding around northern Iowa, Byrnes dreamed about everything the area could become if Osage Municipal Utilities, or any telecom for that matter, could connect the households and businesses that line the streets and highways.
+
+“There’s a beautiful trail system here,” Byrnes says. “But who would want to eat and drink at this restaurant if they can’t watch the Super Bowl?”Scale of Airbnb’s scam problem detailed in new Vice report
+A new report from Vice has highlighted the range of different scams that unscrupulous Airbnb hosts have been pulling on their unsuspecting guests. From tricking guests into switching to dirty and rundown properties at the last minute, to threatening them if they don’t leave glowing 5-star reviews, the report’s findings suggest that Airbnb has been open to abuse for far too long, and that its promised reforms can’t come soon enough.
+
+Vice’s report is well worth reading in its entirety, but there are a couple of stories in among the hundreds of emails the publication received that are worth highlighting. One user from Montreal described how they were asked to pay for their stay outside of the main Airbnb app, only to turn up and discover a filthy property that was infested with silverfish. Then, when the guest tried to cancel through Airbnb, the host “went off” at them, and tried to belittle them:
+
+“I decided to cancel through Airbnb and tell them about what had happened. He went off at me, berated me for not handing it privately, told me I was acting in my own self interest and basically belittled me. I ended up having to pay the full first month even though I stayed a night… His listing is still up and a review posted after my stay also mentions the silverfish.”
+
+Other Airbnb guests complained about being hit with excessive repair costs for minor damages like coffee stains. In one instance, a host tried to claim that their guest had lost their apartment key, and attempted to charge them thousands of dollars to replace it. Airbnb told Vice that it has “checks and balances” in place to protect against abuses like this, and in the case of the alleged missing key the guest managed to get the fine wiped from their account.
+
+In total, Vice says it received almost a thousand emails detailing bad Airbnb experiences. One of the more interesting elements of the report is how similar many of the scams are, as hosts exploit loopholes in Airbnb’s processes to avoid scrutiny. Some hosts will try to claim that a property is unavailable due to an “unavoidable circumstance,” which means that they can avoid any cancellation penalty. Others try to run out the time that a user has to leave a review so that their bad behavior never gets revealed publicly.
+
+After Vice’s initial report on a nationwide Airbnb scam in October last year, the platform promised to verify all of its listings by the end of 2020. Although this verification process stops short of sending an inspector to every single property, the platform plans to start asking guests more questions about the places they’ve visited in an attempt to “triangulate information” and reveal abuses. Airbnb adds that it will also use algorithms to screen listings to try and identify problems. More details about the verification program are promised in the coming months.There are loads of new Marvel TV shows to get excited about
+In order to see this embed, you must give consent to Social Media cookies. Open my cookie preferences.
+
+The first teaser for Marvel’s TV shows is here, and they look expensive
+
+Alongside trailers for No Time to Die, Mulan, Black Widow and Minions: The Rise of Gru, a 30-second teaser during the Super Bowl offered Marvel fans a first glimpse at the MCU’s slate of new TV shows, which are coming to Disney+ this year and next.
+
+There were clips from The Falcon and the Winter Soldier, which sees Captain America’s two best mates following in his footsteps – expect lots of shield-hurling, bullet-dodging action. WandaVision – which picks up the story arc of, you guessed it, Wanda and Vision – teased some trippy sitcom-style time travel that must have been a nightmare for the wardrobe department, while we saw just the briefest flash of Tom Hiddleston’s Loki threatening, as per usual, to burn everything to the ground.
+
+Advertisement
+
+It’s difficult to draw too many conclusions from the short teaser, but one thing is clear – this is a markedly different era for the MCU’s TV properties in terms of budgets and production values. Previous efforts like Agents of Shield and even the well-received Jessica Jones were operating in the network drama bracket (think CSI). Now we’re in HBO territory. These are going to be huge.
+
+1917 cleaned up at the Baftas, but Joaquin Phoenix stole the show
+
+Warner Bros
+
+Read next Why living in The Good Place would actually drive you mad Why living in The Good Place would actually drive you mad
+
+The one-shot World War One epic picked up seven awards at Sunday night’s Bafta awards, including best film, best British film, best director, and best cinematography – read our dive into how the visual effects artist created the illusion of one fluid shot. Joker’s Joaquin Phoenix used his acceptance speech for best actor to rail against the lack of diversity on the shortlists, and systemic racism and oppression. Even the Duke of Cambridge chimed in – when a member of the royal family is criticising you for a lack of equality, something isn’t right.
+
+The Bafta nominees you can watch on Netflix and Amazon right now Film The Bafta nominees you can watch on Netflix and Amazon right now
+
+Advertisement
+
+The best show of the decade has come to an end
+
+Netflix
+
+The WIRED office spent most of December arguing about what to put in our best of the decade lists, but when it came to television, the number one choice was pretty much unanimous. BoJack Horseman is funny, incisive and desperately sad. Although the lead character is a brash, boorish middle-aged man-horse, the show broke new ground in its treatment of female characters in animation. The final six episodes landed on Netflix on Friday – fans of the show will not be expecting a happy ending.
+
+Uncut Gems curses its way into seventh on the all-time fuck chart
+
+In order to see this embed, you must give consent to Social Media cookies. Open my cookie preferences.
+
+Read next Netflix’s Ragnarok pits the climate crisis against every TV cliche Netflix’s Ragnarok pits the climate crisis against every TV cliche
+
+It was a significant week for Netflix all around – The Good Place’s final season also drew to an end with a double-length episode, and we explored the psychology of what going to heaven would actually be like (spoiler: it would drive you mad).
+
+Advertisement
+
+Why living in The Good Place would actually drive you mad TV Why living in The Good Place would actually drive you mad
+
+Crime thriller Uncut Gems – which stars Adam Sandler in a critically acclaimed performance – also landed on the platform after a short run in cinemas. The word ‘fuck’ appears 408 times, putting it seventh on the all time list just ahead of Straight Outta Compton. Sandler divides opinion, but he’s clearly doing the business for Netflix, which just ordered another four movies from his production company.
+
+Not Tonight puts you in charge of dystopian post-Brexit Britain
+
+In order to see this embed, you must give consent to Social Media cookies. Open my cookie preferences.
+
+Alright, we have to hand it to you Nige – day three, and society hasn’t collapsed yet (except in one tower block in Norwich). But we’re still in the transition period, and given the tone of the prime minister’s statements, we could be looking at the breakdown of trade talks and a no-deal exit from the European Union at the end of the year. Management game Not Tonight: Take Back Control edition, from the makers of the widely praised Papers, Please! puts the player in a dystopian post-Brexit ruled by an extreme far-right government where, driven from your old life by the chaos, you’re forced to pick up casual work as a bouncer. The game is out now on the Nintendo Switch.
+
+Read next 47 of the best Netflix series to binge watch right now 47 of the best Netflix series to binge watch right now
+
+Amit Katwala is WIRED's culture editor. He tweets from @amitkatwala
+
+More great stories from WIRED
+
+🍅 Why do modern tomatoes taste so bad?
+
+🚙 How Tesla became the world's most overvalued car company
+
+📽️ Marvel at the incredible real-life Iron Man
+
+Advertisement
+
+📢 How Slack ruined work
+
+👉 Follow WIRED on Twitter, Instagram, Facebook and LinkedIn

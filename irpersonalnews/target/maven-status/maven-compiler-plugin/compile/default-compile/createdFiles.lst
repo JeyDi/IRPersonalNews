@@ -1,0 +1,13 @@
+service/UserProfileSearchService.class
+webapp/Application.class
+app/Result.class
+app/IndexBuilder.class
+service/CreateResultsService.class
+app/TextAnalyzer.class
+app/TweetReader.class
+service/NewsSearcherService.class
+app/NewsTweet.class
+app/CosineSimilarity.class
+webapp/QueryController.class
+service/ResultReranking.class
+app/UserProfileBuilder.class
