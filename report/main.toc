@@ -1,0 +1,12 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Proposed Solution}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Information gathering}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}IR System}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Indexing}{7}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Retrieval}{7}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Personalization}{8}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}User Custom Profiles}{8}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Re-Ranking}{8}{subsubsection.2.3.2}%
+\contentsline {section}{\numberline {3}Web Application}{9}{section.3}%
+\contentsline {section}{\numberline {4}Conclusion and Future Work}{11}{section.4}%
